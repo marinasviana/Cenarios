@@ -6,7 +6,7 @@ FUNCIONALIDADE: Cadastro de Newsletter
 	Um visitante da Loja Integrada é referenciado nos Cenários desta feature como "usuário"
 
 Contexto:
-	Dado que o usuário é visitante da Loja Integrada
+	Dado que o usuário é um visitante da Loja Integrada
 
 Esquema do Cenario: Cadastrar um e-mail com sucesso
 	Quando o usuário realizo o cadastro de um e-mail valido
